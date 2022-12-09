@@ -1,7 +1,16 @@
 # Addressing Typical Data Quality Issues in Viya
 
 ## Table of Contents
-[TOC]	
+
+* [Addressing Typical Data Quality Issues in Yiya](#addressing-typical-data-quality-issues-in-viya)
+    * [Overview](#overview)
+        * [Completeness](#completeness)
+        * [Uniqueness](#uniqueness)
+        * [Data Consistency](#data-consistency)
+        * [Data Accuracy](#data-accuracy)
+    * [Contributing](#contributing)
+    * License](#license)
+    * Additional Resources](#additional-resources)
 
 ## Overview
 Enhancing data quality is critical as data is at the heart of all activities within organizations; poor data quality leads to inaccurate analysis and reporting which will impact business decisions. Here we will address four different data quality issues and how to identify them using CAS actions in Viya. 
